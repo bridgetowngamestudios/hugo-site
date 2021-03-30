@@ -1,0 +1,5 @@
+baseURL = "http://bridgetowngamestudios.com/"
+languageCode = "en-us"
+title = "Bridgetown Game Studios"
+theme = "meghna-hugo"
+themesDir = "./themes"
